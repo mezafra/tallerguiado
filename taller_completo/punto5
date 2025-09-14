@@ -1,0 +1,3 @@
+
+for mes in range(1,12):
+    print(f"Mes {mes}: Tienes {6*200} pesos ahorrados")

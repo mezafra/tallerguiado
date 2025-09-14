@@ -1,0 +1,3 @@
+import funciones as axs
+axs.simular_ahorro(ahorro_mensual=150,mese=6,meta=800)
+
